@@ -1,0 +1,15 @@
+.page__container_min {
+  margin: 0 48px 0;
+}
+
+@media screen and (max-width: 768px) {
+  .page__container_min {
+  margin: 0 24px 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .page__container_min {
+  margin: 0 16px 0;
+  }
+}
