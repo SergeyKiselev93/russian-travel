@@ -1,0 +1,7 @@
+.intro {
+  font-family: 'Inter';
+  max-width: 690px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
