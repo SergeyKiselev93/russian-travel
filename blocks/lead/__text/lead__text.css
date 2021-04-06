@@ -1,4 +1,5 @@
 .lead__text {
+  font-family: 'Inter';
   max-width: 158px;
   line-height: 14px;
   font-size: 10px;
@@ -7,6 +8,7 @@
   text-transform: uppercase;
   letter-spacing: 0.15em;
   align-self: flex-start;
+  margin: 8px 0 0;
 }
 
 @media screen and (max-width: 768px) {

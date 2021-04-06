@@ -3,24 +3,25 @@
   max-width: 1184px;
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
   margin-top: 92px;
   margin-bottom: 24px;
 }
 
-@media screen and (max-width: 1024px) {
+@media (min-width: 769px) and (max-width: 1024px) {
   .footer {
-  max-width: 928px;
+  max-width: calc(100% - 96px);
   }
 }
 
-@media screen and (max-width: 768px) {
+@media (min-width: 426px) and (max-width: 768px) {
   .footer {
-  max-width: 720px;
+  max-width: calc(100% - 48px);
   margin-top: 88px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .footer {
   max-width: 186px;
   margin-top: 32px;

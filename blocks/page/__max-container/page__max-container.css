@@ -8,13 +8,13 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media (min-width: 768px) and (max-width: 1023px) {
   .page__max-container {
   margin: 0 24px 0;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media (min-width: 320px) and (max-width: 767px) {
   .page__max-container {
   margin: 0 16px 0;
   }

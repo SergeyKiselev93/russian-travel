@@ -1,4 +1,5 @@
-.place__website_title {
+.place__website-title {
+  font-family: 'Inter';
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
