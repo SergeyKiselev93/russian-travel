@@ -1,0 +1,11 @@
+.cover {
+  font-family: 'Inter';
+  max-width: 1184px;
+}
+
+@media screen and (max-width: 1024px) {
+  .cover {
+    margin: 0;
+  }
+}
+
