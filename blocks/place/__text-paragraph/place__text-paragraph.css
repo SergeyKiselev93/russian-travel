@@ -1,0 +1,8 @@
+.place__text-paragraph {
+  font-family: 'Inter', Arial, sans-serif;
+  margin: 0 0 26px 0;
+}
+
+.place__text-paragraph:last-child {
+  margin: 0;
+}
