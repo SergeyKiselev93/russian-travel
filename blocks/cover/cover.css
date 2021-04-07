@@ -1,17 +1,9 @@
 .cover {
-<<<<<<< HEAD
-  font-family: 'Inter', Arial, sans-serif;
-  max-width: 1184px;
-}
-
-@media (max-width: 1110px) {
-=======
   font-family: 'Inter';
   max-width: 1184px;
 }
 
 @media screen and (max-width: 1024px) {
->>>>>>> 17b8047ea16712d08e00c76e136ebcedff9a6194
   .cover {
     margin: 0;
   }

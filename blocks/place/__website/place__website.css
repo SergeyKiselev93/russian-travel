@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-.place__website{
-  font-family: 'Inter', Arial, sans-serif;
-  grid-area: website;
-  align-self: end;
-}
-
-@media screen and (max-width: 320px) {
-  .place__website {
-    margin: 0 16px;
-  }
-}
-=======
 .place__website{
   font-family: 'Inter';
   grid-area: website;
@@ -22,4 +9,3 @@
     margin: 0 16px;
   }
 }
->>>>>>> 17b8047ea16712d08e00c76e136ebcedff9a6194
