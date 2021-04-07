@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .cover__link {
   position: relative;
   text-decoration: none;
@@ -25,3 +26,32 @@
 .cover__link:hover::after {
   opacity: 0.8;
 }
+=======
+.cover__link {
+  position: relative;
+  text-decoration: none;
+  display: block;
+  background-image: url(../../../images/cover-trains.jpg);
+  background-size: cover;
+  background-position:center;
+  color: inherit;
+  z-index: 1;
+}
+
+.cover__link::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: #2A2C2F;
+  opacity: 0.3;
+  z-index: -1;
+  transition: opacity 0.7s ease-in-out;
+}
+
+.cover__link:hover::after {
+  opacity: 0.8;
+}
+>>>>>>> 17b8047ea16712d08e00c76e136ebcedff9a6194

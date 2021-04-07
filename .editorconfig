@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # http://editorconfig.org
 
 
@@ -43,3 +44,6 @@ trim_trailing_whitespace = true
 # Possible values - true, false
 
 insert_final_newline = true
+=======
+
+>>>>>>> 17b8047ea16712d08e00c76e136ebcedff9a6194

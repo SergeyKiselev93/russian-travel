@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header__logo {
   max-width: 176px;
 }
@@ -7,3 +8,14 @@
   max-width: 142px;
   }
 }
+=======
+.header__logo {
+  max-width: 176px;
+}
+
+@media screen and (max-width: 425px) {
+  .header__logo {
+  max-width: 142px;
+  }
+}
+>>>>>>> 17b8047ea16712d08e00c76e136ebcedff9a6194

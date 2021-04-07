@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .footer {
   font-family: 'Inter', Arial, sans-serif;
   max-width: 1184px;
@@ -29,3 +30,36 @@
   align-items: flex-start;
   }
 }
+=======
+.footer {
+  font-family: 'Inter';
+  max-width: 1184px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 92px;
+  margin-bottom: 24px;
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .footer {
+  max-width: calc(100% - 96px);
+  }
+}
+
+@media (min-width: 426px) and (max-width: 768px) {
+  .footer {
+  max-width: calc(100% - 48px);
+  margin-top: 88px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .footer {
+  max-width: 186px;
+  margin-top: 32px;
+  flex-direction: column;
+  align-items: flex-start;
+  }
+}
+>>>>>>> 17b8047ea16712d08e00c76e136ebcedff9a6194

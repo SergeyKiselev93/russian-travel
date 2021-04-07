@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .place__website-title {
   font-family: 'Inter';
   font-style: normal;
@@ -7,3 +8,14 @@
   letter-spacing: 0.2em;
   color: #AAAAAA;
 }
+=======
+.place__website-title {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 100%;
+  letter-spacing: 0.2em;
+  color: #AAAAAA;
+}
+>>>>>>> 17b8047ea16712d08e00c76e136ebcedff9a6194

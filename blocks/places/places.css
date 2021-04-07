@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .places {
   max-width: 984px;
   margin-top: 92px;
@@ -23,3 +24,30 @@
     margin: 64px 0 66px;
   }
 }
+=======
+.places {
+  max-width: 984px;
+  margin-top: 92px;
+  margin-bottom: 92px;
+}
+
+@media screen and (max-width: 768px) {
+  .places {
+    margin-top: 88px;
+    margin-bottom: 90px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .places {
+    margin-top: 64px;
+    margin-bottom: 66px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .places {
+    margin: 64px 0 66px;
+  }
+}
+>>>>>>> 17b8047ea16712d08e00c76e136ebcedff9a6194

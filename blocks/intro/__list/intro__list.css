@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .intro__list {
   font-style: normal;
   font-weight: normal;
@@ -7,3 +8,14 @@
   list-style-type: none;
   margin: 0;
 }
+=======
+.intro__list {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 150%;
+  padding: 0;
+  list-style-type: none;
+  margin: 0;
+}
+>>>>>>> 17b8047ea16712d08e00c76e136ebcedff9a6194
