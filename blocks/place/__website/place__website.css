@@ -1,5 +1,5 @@
 .place__website{
-  font-family: 'Inter';
+  font-family: 'Inter', Arial, sans-serif;
   grid-area: website;
   align-self: end;
 }
